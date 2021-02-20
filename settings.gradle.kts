@@ -12,7 +12,6 @@ pluginManagement {
 }
 
 include("ok-comments-common-mp")
-//include("ok-comments-common-be")
 //include("ok-comments-frontend")
 //include("ok-comments-transport-mp")
 //include("ok-comments-mappers-mp")
